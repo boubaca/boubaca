@@ -26,5 +26,5 @@ After years in the Java & Spring ecosystem, I dove deep into Rust—now my go-to
 
 ## 💬 How to Reach Me
 [![GitHub](https://img.shields.io/badge/GitHub-@boubaca-181717?logo=github&style=for-the-badge)](https://github.com/boubaca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/boubacar-barry-6b886479)  
 Open an issue or drop me a DM—always happy to chat about architecture, Rust, or the
